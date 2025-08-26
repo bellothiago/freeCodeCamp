@@ -1,0 +1,31 @@
+# What I Learned
+- HTML Elements:
+	- Anchor `(a)`
+	- Section `(section)`
+	- Unordered list `(ul)`
+	- List item `(li)`
+	- Figure `(figure)`
+	- Figure caption `(figcaption)`
+	- Emphasis `(em)`
+	- Ordered list `(ol)`
+	- Strong importance `(strong)`
+	- Footer `(footer)`
+	- Body `(body)`
+	- Head `(head)`
+	- Title `(title)`
+	- Root of an HTML document `(html)`
+- Void elements:
+	- Image `(img)`
+	- Metadata `(meta)`
+- Attributes:
+	- Source `(src)`
+	- Alternative text `(alt)`
+	- Hyperlink reference `(href)`
+	- Target `(target)`
+	- Language `(lang)`
+	- Character encoding `(charset)`
+- Comments `(<!-- [COMMENT] -->)`
+- Importance of why each element identifies different content areas (therefore, they have a semantic meaning) and it's impact on Search Engine Optimization (SEO) and accessibility
+- Nesting
+- Indentation and why it makes code easier to read
+- Declaration `(<!DOCTYPE html>)`
