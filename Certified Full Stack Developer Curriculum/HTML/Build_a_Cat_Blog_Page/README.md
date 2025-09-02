@@ -1,0 +1,11 @@
+# What I Learned
+- HTML Elements:
+	- Header `(header)`
+	- Navigation `(nav)`
+	- Main `(main)`
+	- Article `(article)`
+	- Address `(address)`
+- URL schemes:
+	- Telephone link `(tel:)`
+	- Email link `(mailto:)`
+- Lorem ipsum texts and their use as placeholder
