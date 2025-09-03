@@ -14,7 +14,6 @@
 	- Head `(head)`
 	- Title `(title)`
 	- Root of an HTML document `(html)`
-- Void elements:
 	- Image `(img)`
 	- Metadata `(meta)`
 - Attributes:
