@@ -6,7 +6,7 @@
 	- Legend `(legend)`
 	- Label `(label)`
 	- Input `(input)`
-	- Select `(select)`
+	- Dropdown `(select)`
 	- Option `(option)`
 	- Text area `(textarea)`
 - Attributes:
