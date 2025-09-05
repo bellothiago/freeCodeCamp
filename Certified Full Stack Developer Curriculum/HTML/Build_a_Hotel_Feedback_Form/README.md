@@ -1,0 +1,37 @@
+# What I Learned
+- HTML Elements:
+	- Form `(form)`
+	- Fieldset `(fieldset)`
+	- Input `(input)`
+	- Legend `(legend)`
+	- Label `(label)`
+	- Input `(input)`
+	- Select `(select)`
+	- Option `(option)`
+	- Text area `(textarea)`
+- Attributes:
+	- Action `(action)`
+	- Method `(method)`
+	- For `(for)`
+	- id `(for)`
+	- Type `(type)`
+	- Name `(name)`
+	- Placeholder `(placeholder)`
+	- Required `(required)`
+	- Size `(size)`
+	- Minimum value `(min)`
+	- Maximum value `(max)`
+	- Value `(value)`
+	- Checked `(checked)`
+	- Selected `(selected)`
+	- Rows `(rows)`
+	- Columns `(cols)`
+- Input types:
+	- Text `(text)`
+	- Email `(email)`
+	- Number `(number)`
+	- Radio `(radio)`
+	- Checkbox `(checkbox)`
+- Button types:
+	- Submit `(submit)`
+- Concept of an explicit association
