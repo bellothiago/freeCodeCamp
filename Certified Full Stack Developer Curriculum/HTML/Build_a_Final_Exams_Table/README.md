@@ -1,0 +1,12 @@
+# What I Learned
+- HTML Elements:
+	- Table `(table)`
+	- Table caption `(caption)`
+	- Table head `(thead)`
+	- Table row `(tr)`
+	- Table header `(th)`
+	- Table body `(tbody)`
+	- Table data `(td)`
+	- Table foot `(tfoot)`
+- Attributes:
+	- Column span `(colspan)`
