@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+
+<body>
+  <h1>Multimedia Player</h1>
+  <section>
+    <h2>Sailing Away</h2>
+    <audio controls aria-label="Sailing Away">
+      <source src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3" type="audio/mp3">
+    </audio>
+  </section>
+  <section>
+    <h2>Map Method - What It Is and How It Works</h2>
+    <video controls width="480" aria-label="Explanation of the Map Method">
+      <source type="video/mp4" src="https://cdn.freecodecamp.org/curriculum/labs/What is the map method and how does it work.mp4">
+      <track src="subtitlesthatwontwork.srt" kind="subtitles" srclang="en" label="English">
+    </video>
+  </section>
+  <section>
+    <h2>Transcript</h2>
+    <p>"Hi everyone! Today, we’re going to break down the map method and how it works. If you’ve ever worked with arrays in programming, this is going to sound familiar. So, what is the map method? In simple terms, it’s a function that takes an array, performs a specific operation on each element, and returns a new array with the results—without changing the original one. Let’s look at an example. Say we have an array of numbers: [1, 2, 3, 4]. If we want to double each number, we can use the map method. "As you can see, numbers.map() takes each number, multiplies it by 2, and creates a new array called doubled. The original numbers array stays the same. This method is super useful when you need to transform data without mutating the original array. You can use it for numbers, strings, objects—almost anything! "And that’s the map method in a nutshell: take an array, apply a function to each element, and get a new array as the result. Quick, clean, and powerful!"</p> 
+  </section>
+</body>
+
+</html>
