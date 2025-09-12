@@ -1,0 +1,36 @@
+# What I Learned
+- HTML Elements:
+	- Style `(style)`
+	- Generic container or division `(div)`
+	- Horizontal rule `(hr)`
+- Attributes:
+	- Class `(class)`
+- CSS Properties:
+	- Text alignment `(text-align)`
+	- Background color `(background-color)`
+	- Width `(width)`
+	- Margin `(margin)`
+	- Background image `(background-image)`
+	- Padding `(padding)`
+	- Maximum width `(max-width)`
+	- Font family `(font-family)`
+	- Font style `(font-style)`
+	- Font size `(font-size)`
+	- Height `(height)`
+	- Border color `(border-color)`
+	- Color `(color)`
+- CSS Selectors:
+	- Type
+	- Id
+	- Class
+	- Pseudo-selectors:
+		- Visited `(:visited)`
+		- Hover `(:hover)`
+		- Active `(:active)`
+- List of selectors
+- Linking a CSS file to a HTML file through the link element `(link)`
+- Viewport meta element `(meta name="viewport")`
+- CSS comments
+- Values in pixels and percentages
+- Fallback values
+- Negative values
