@@ -23,10 +23,10 @@
 	- Type
 	- Id
 	- Class
-	- Pseudo-selectors:
-		- Visited `(:visited)`
-		- Hover `(:hover)`
-		- Active `(:active)`
+- Pseudo-classes:
+	- Visited `(:visited)`
+	- Hover `(:hover)`
+	- Active `(:active)`
 - List of selectors
 - Linking a CSS file to a HTML file through the link element `(link)`
 - Viewport meta element `(meta name="viewport")`
