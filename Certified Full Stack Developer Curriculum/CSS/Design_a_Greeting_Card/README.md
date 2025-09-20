@@ -1,0 +1,12 @@
+# What I Learned
+- CSS Properties:
+	- Drop shadow `(box-shadow)`
+	- Transform `(transform)`
+	- Transition `(transition)`
+	- Outline `(outline)`
+- Pseudo-classes:
+	- Focus `(:focus)`
+	- Target `(:target)`
+- Pseudo-elements:
+	- Before `(::before)`
+	- After `(::after)`
