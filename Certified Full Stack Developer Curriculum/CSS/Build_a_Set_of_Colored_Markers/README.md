@@ -1,0 +1,14 @@
+# What I Learned
+- Colors keywords
+- Shorthand property
+- RGB model `(rgb())`
+- CMYK model
+- HSL model `(hsl())`
+- Primary, secondary and tertiary colors
+- Color wheel
+- Complementary colors
+- Hexadecimal values
+- Gradients
+- Alpha channel `(rgba(), hsla(), #RRGGBBAA)`
+- CSS Properties:
+	- Opacity `(opacity)`
