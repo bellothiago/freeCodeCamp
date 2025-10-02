@@ -1,0 +1,11 @@
+# What I Learned
+- CSS Properties:
+	- Box model sizing `(box-sizing)`
+	- Transform text `(text-transform)`
+	- Flexbox direction `(flex-direction)`
+	- Flexbox wrapping `(flex-wrap)`
+	- Justify flexbox's content `(justify-content)`
+	- Align flexbox's items `(align-items)`
+	- Object fitting `(object-fit)`
+	- Gap `(gap)`
+- Flexbox
