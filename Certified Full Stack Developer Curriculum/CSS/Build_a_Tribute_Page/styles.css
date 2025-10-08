@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FEFAE0;
+}
+
+#title {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px 0 10px;
+}
+
+.divider {
+  width: 60%;
+  height: 2px;
+  background-color: #BC6C25;
+  margin: 0px auto 30px;
+  border-radius: 10px;
+}
+
+figure {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+}
+
+figure > figcaption {
+  max-width: 80%;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+img {
+  width: 100%;
+  max-width: 100%; /* The instructions declare that this property's value is 100%, that's the only reason it is set to this. Otherwise, I'd have set it to 800px, which looked better to me. */
+  border-radius: 25px;
+  box-shadow: 0 0 20px 0;
+}
+
+#tribute-info {
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  background-color: #DDA15E;
+  padding: 16px;
+  border-radius: 15px;
+  font-family: sans-serif;
+  border: solid 4px #606C38;
+}
+
+section > h2 {
+  margin-bottom: 10px;
+}
+
+section > ul {
+  margin-left: 30px;
+}
+
+ul > li {
+  font-size: 20px;
+  padding: 5px 0;
+}
+
+#more-info {
+  width: 100%;
+  background-color: blue;
+}
+
+a {
+  display: block;
+  width: 20%;
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 12px;
+  border: 4px solid #BC6C25;
+  background-color: #283618;
+  padding: 1em;
+  text-decoration: none;
+  color: #FEFAE0;
+}
