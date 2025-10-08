@@ -1,0 +1,15 @@
+# What I Learned
+- Maximum function `(max())`
+- Minimum function `(min())`
+- CSS Properties:
+	- Aspect ratio `(aspect-ratio)`
+	- White space `(white-space)`
+	- Clip `(clip)`
+	- Overflow `(overflow)`
+	- Cursor `(cursor)`
+- Child combinator selector
+- Attributes:
+	- Role `(role)`
+	- Accessibility label `(aria-labelledby)`
+- Span accessible only to screen readers for accessibility enhancement.
+- `@media` at-rule
