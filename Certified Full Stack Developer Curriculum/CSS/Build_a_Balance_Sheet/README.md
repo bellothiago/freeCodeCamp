@@ -1,0 +1,17 @@
+# What I Learned
+- Attributes:
+	- Hide from screen readers `(aria-hidden)`
+- `sr-only` class
+- CSS Properties:
+	- Clip `(clip)`
+	- Clip path `clip-path`
+	- Align vertically `(vertical-align)`
+- CSS Selectors:
+	- First of type `(:first-of-type)`
+	- Last of type `(:last-of-type)`
+- Pseudo-selectors:	
+	- Not `(:not())`
+	- Value `([attribute="value"])`
+	- Order `(:nth-of-type())`
+- Calculate function `(calc())`
+- Important keyword `(!important)`
