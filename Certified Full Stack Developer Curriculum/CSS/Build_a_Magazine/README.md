@@ -1,0 +1,23 @@
+# What I Learned
+- Attributes:
+	- Image loading `(loading)`
+- Referer HTTP header
+- HTML Elements:
+	- Idiomatic text `(i)`
+	- Block quotation `(blockquote)`
+	- Aside `(aside)`
+- Usage of an icons library
+- CSS Properties:
+	- Grid template columns `(grid-template-columns)`
+	- Grid template rows `(grid-template-rows)`
+	- Gap `(gap)`
+	- Grid columns `(grid-column)`
+	- Object fit `(object-fit)`
+	- Auto flow within a grid `(grid-auto-flow)`
+	- Auto columns within a grid `(grid-auto-columns)`
+	- Width of a column `(column-width)`
+	- Type of list `(list-style-type)`
+	- Items place `(place-items)`
+- Minimum and maximum function `(minmax)`
+- Repeat function `(repeat)`
+- First letter pseudo-selector `(::first-letter)`
