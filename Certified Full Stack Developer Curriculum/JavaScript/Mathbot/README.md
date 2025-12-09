@@ -6,3 +6,4 @@
 - `Math.round()` method
 - `Math.max()` method
 - `Math.min()` method
+- Formula to generate a random integer between two values
