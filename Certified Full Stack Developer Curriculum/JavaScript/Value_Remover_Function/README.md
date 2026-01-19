@@ -1,0 +1,5 @@
+# Value Remover Function
+## User Stories:
+1. You should have a `destroyer` function that accepts an array and one or more additional arguments.
+2. The `destroyer` function should return a new array excluding all elements from the first argument that match any of the subsequent arguments.
+The function must accept an indeterminate number of arguments.
