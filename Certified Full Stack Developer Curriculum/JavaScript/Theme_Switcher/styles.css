@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  transition: background 0.3s, color 0.3s;
+  width: 100%;
+  height: 100vh;
+}
+
+ul {
+  background-color: white;
+  width: 100px;
+}
+
+li {
+  list-style-type: none;
+  width: 100%;
+  text-align: center;
+}
+
+li:hover {
+  background-color: gray;
+  cursor: pointer;
+}
+
+#status {
+  text-align: center;
+  min-height: 20px;
+}
+
+#theme-switcher-button {
+  width: 100px;
+  border: none;
+}
+
+#message {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  background-color: white;
+  text-align: center;
+}
+
+.theme-white {
+  background-color: white;
+}
+
+.theme-black {
+  background-color: black;
+}
+
+.theme-gray {
+  background-color: gray;
+}
+
+.theme-red {
+  background-color: red;
+}
