@@ -1,0 +1,13 @@
+# What I Learned
+- Regular expressions `(regex)`
+- Regex flags, like `i`
+- `.match()` method
+- `.test()` method
+- `.some()` method
+- Character class `[]`
+- `+` quantifier
+- Capture group `()`
+- `?` quantifier
+- `\s` character class
+- `*` quantifier
+- Non-capture group
