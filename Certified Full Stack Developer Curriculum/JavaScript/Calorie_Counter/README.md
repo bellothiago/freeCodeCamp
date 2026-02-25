@@ -1,0 +1,16 @@
+# What I Learned
+- Greater usage of the `.getElementById()` method
+- Prefix `is` or `has` on a variable's name to signify that the variable represents a boolean value.
+- Refresh of regex
+- `.match()` method
+- `.replace()` method
+- `innerHTML` property
+- Function reference
+- `insertAdjacentHTML()` method
+- `Number()` constructor
+- Naming schemes
+- Ternary operators
+- `Math.abs()` method
+- `.remove()` method
+- `.from()` method
+- `.add()` method
